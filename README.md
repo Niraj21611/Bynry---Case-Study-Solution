@@ -6,6 +6,14 @@ All API code is written in **Node.js with Express.js**.
 
 ---
 
+## Solution Document
+
+A fully formatted solution document (Word format) with all three parts, code, schema DDL, design decisions, and the assumptions table is available here:
+
+[View Solution as Google Doc](https://docs.google.com/document/d/1sYIQMSMfHTPqHjMH88MZD22Yf1caOrU2nqgInM7fXWY/edit?usp=sharing)
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -156,10 +164,4 @@ A full assumptions table is documented in the solution document. Key ones:
 - **Database**: PostgreSQL
 - **Schema notation**: SQL DDL
 
----
 
-## Solution Document
-
-A fully formatted solution document (Word format) with all three parts, code, schema DDL, design decisions, and the assumptions table is available here:
-
-[View Solution as Google Doc](https://docs.google.com/document/d/1sYIQMSMfHTPqHjMH88MZD22Yf1caOrU2nqgInM7fXWY/edit?usp=sharing)
